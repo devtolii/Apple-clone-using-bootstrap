@@ -1,2 +1,2 @@
 # Apple-clone-using-bootstrap
-Apple-responsive website using bootstrap css and js
+Apple-responsive website using bootstrap html and css
